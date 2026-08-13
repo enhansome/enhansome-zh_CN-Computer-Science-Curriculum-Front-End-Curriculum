@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "build-your-own-x",
+          "description": "做项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "project-based-learning",
+          "description": "做项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:04:22Z",
+            "owner": "practical-tutorials",
+            "repo": "project-based-learning",
+            "stars": 279039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlgoryL/Projects-from-Scratch: Read and do projects.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-26T23:57:01Z",
+            "owner": "AlgoryL",
+            "repo": "Projects-from-Scratch",
+            "stars": 1945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cweagans/awesome-diy-software: A curated list of awesome DIY software.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-05T18:36:07Z",
+            "owner": "cweagans",
+            "repo": "awesome-diy-software",
+            "stars": 775
+          }
+        }
+      ],
+      "title": "不错的网站"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:20:13.446Z",
+    "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
+    "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
+    "enhanced_repository": "enhansome/enhansome-zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
+    "enhanced_repository_description": null,
+    "title": "Awesome zh_CN-Computer-Science-Curriculum-Front-End-Curriculum with stars"
+  }
+}
