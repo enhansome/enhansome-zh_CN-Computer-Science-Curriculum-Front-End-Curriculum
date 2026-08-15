@@ -66,11 +66,11 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 539,695 | 🐛 627 | 🌐 Markdown | 📅 2026-07-14 做项目
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 539,951 | 🐛 628 | 🌐 Markdown | 📅 2026-07-14 做项目
 
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,207 | 🐛 267 | 🌐 Python | 📅 2026-08-10 做项目
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,315 | 🐛 267 | 🌐 Python | 📅 2026-08-10 做项目
 
-* [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,945 | 🐛 5 | 📅 2023-03-26
+* [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,944 | 🐛 5 | 📅 2023-03-26
 
 * [cweagans/awesome-diy-software: A curated list of awesome DIY software.](https://github.com/cweagans/awesome-diy-software) ⭐ 775 | 🐛 3 | 📅 2019-12-05
 
@@ -95,9 +95,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 备用CS资源大全
 
-* [OSSU](https://github.com/ossu/computer-science) ⭐ 207,992 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,042 | 🐛 2 | 📅 2026-07-07
-* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,696 | 🐛 41 | 📅 2025-06-11
+* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,024 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,051 | 🐛 2 | 📅 2026-07-07
+* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,697 | 🐛 41 | 📅 2025-06-11
 * [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,180 | 🐛 0 | 📅 2026-01-03
 * [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 978 | 🐛 0 | 📅 2024-01-08
 * [CS1000](https://cs1000.vercel.app/)
@@ -122,7 +122,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 * 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 * 参考：[Web Skills](https://andreasbm.github.io/web-skills/)
 * 参考: [roadmap.sh](https://roadmap.sh/frontend)
-* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,882 | 🐛 24 | 📅 2023-12-18
+* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,886 | 🐛 24 | 📅 2023-12-18
 
 | Index | Topic        | Course                                                    | Pricing |
 | ----- | ------------ | --------------------------------------------------------- | ------- |
@@ -188,7 +188,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 * [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) :+1:
 * [有道词典](http://dict.youdao.com/?keyfrom=dict2.index)
 * [DeepL翻译](https://www.deepl.com/translator)
-* [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) ⭐ 13,264 | 🐛 753 | 🌐 TypeScript | 📅 2026-07-26 :+1:
+* [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) ⭐ 13,267 | 🐛 753 | 🌐 TypeScript | 📅 2026-07-26 :+1:
 * [彩云小译](https://fanyi.caiyunapp.com/) :+1:
 * [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) :+1:
 * [Quicker聚合翻译OpenL DeepL](https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977)
@@ -306,4 +306,4 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
