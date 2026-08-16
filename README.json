@@ -14,7 +14,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 539951
+            "stars": 540221
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T07:04:22Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279315
+            "stars": 279454
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-03-26T23:57:01Z",
             "owner": "AlgoryL",
             "repo": "Projects-from-Scratch",
-            "stars": 1944
+            "stars": 1943
           }
         },
         {
@@ -64,7 +64,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:47:07.300Z",
+    "last_updated": "2026-08-16T18:46:32.571Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
     "enhanced_repository": "enhansome/enhansome-zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
