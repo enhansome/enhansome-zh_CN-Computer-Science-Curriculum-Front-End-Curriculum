@@ -66,9 +66,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 540,482 | 🐛 630 | 🌐 Markdown | 📅 2026-07-14 做项目
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 540,814 | 🐛 633 | 🌐 Markdown | 📅 2026-07-14 做项目
 
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,599 | 🐛 268 | 🌐 Python | 📅 2026-08-17 做项目
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,762 | 🐛 269 | 🌐 Python | 📅 2026-08-17 做项目
 
 * [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,944 | 🐛 5 | 📅 2023-03-26
 
@@ -95,9 +95,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 备用CS资源大全
 
-* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,077 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,070 | 🐛 2 | 📅 2026-07-07
-* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,700 | 🐛 41 | 📅 2025-06-11
+* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,133 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,095 | 🐛 2 | 📅 2026-07-07
+* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,704 | 🐛 41 | 📅 2025-06-11
 * [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,183 | 🐛 0 | 📅 2026-01-03
 * [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 978 | 🐛 0 | 📅 2024-01-08
 * [CS1000](https://cs1000.vercel.app/)
@@ -188,7 +188,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 * [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) :+1:
 * [有道词典](http://dict.youdao.com/?keyfrom=dict2.index)
 * [DeepL翻译](https://www.deepl.com/translator)
-* [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) ⭐ 13,270 | 🐛 750 | 🌐 TypeScript | 📅 2026-07-26 :+1:
+* [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) ⭐ 13,272 | 🐛 750 | 🌐 TypeScript | 📅 2026-07-26 :+1:
 * [彩云小译](https://fanyi.caiyunapp.com/) :+1:
 * [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) :+1:
 * [Quicker聚合翻译OpenL DeepL](https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977)
@@ -306,4 +306,4 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
