@@ -66,9 +66,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 541,132 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 做项目
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 541,248 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 做项目
 
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,882 | 🐛 270 | 🌐 Python | 📅 2026-08-17 做项目
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 279,945 | 🐛 270 | 🌐 Python | 📅 2026-08-17 做项目
 
 * [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,944 | 🐛 5 | 📅 2023-03-26
 
@@ -95,10 +95,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 备用CS资源大全
 
-* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,161 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,123 | 🐛 2 | 📅 2026-07-07
-* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,706 | 🐛 41 | 📅 2025-06-11
-* [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,183 | 🐛 0 | 📅 2026-01-03
+* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,175 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,124 | 🐛 2 | 📅 2026-07-07
+* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,704 | 🐛 41 | 📅 2025-06-11
+* [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,182 | 🐛 0 | 📅 2026-01-03
 * [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 978 | 🐛 0 | 📅 2024-01-08
 * [CS1000](https://cs1000.vercel.app/)
 * [No Debt CS](https://no-debt-cs.netlify.app/)
@@ -122,7 +122,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 * 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 * 参考：[Web Skills](https://andreasbm.github.io/web-skills/)
 * 参考: [roadmap.sh](https://roadmap.sh/frontend)
-* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,888 | 🐛 24 | 📅 2023-12-18
+* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,887 | 🐛 24 | 📅 2023-12-18
 
 | Index | Topic        | Course                                                    | Pricing |
 | ----- | ------------ | --------------------------------------------------------- | ------- |
