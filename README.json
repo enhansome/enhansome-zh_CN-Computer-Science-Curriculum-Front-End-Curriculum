@@ -1,71 +1,164 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "CS计算机课程自学资源、教程、路线 - Computer Science Curriculum",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "build-your-own-x",
+              "description": "做项目",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132750724,
+                "language": "Markdown",
+                "last_commit": "2026-07-14T19:25:58Z",
+                "owner": "codecrafters-io",
+                "repo": "build-your-own-x",
+                "stars": 541132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "project-based-learning",
+              "description": "做项目",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88011908,
+                "language": "Python",
+                "last_commit": "2026-08-17T06:46:47Z",
+                "owner": "practical-tutorials",
+                "repo": "project-based-learning",
+                "stars": 279882
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AlgoryL/Projects-from-Scratch: Read and do projects.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82414038,
+                "language": null,
+                "last_commit": "2023-03-26T23:57:01Z",
+                "owner": "AlgoryL",
+                "repo": "Projects-from-Scratch",
+                "stars": 1944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cweagans/awesome-diy-software: A curated list of awesome DIY software.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125466066,
+                "language": null,
+                "last_commit": "2019-12-05T18:36:07Z",
+                "owner": "cweagans",
+                "repo": "awesome-diy-software",
+                "stars": 776
+              }
+            }
+          ],
+          "description": "⬆ Back to top",
+          "node_type": "group",
+          "title": "不错的网站"
+        }
+      ],
+      "title": "计算机编程后端自学"
+    },
+    {
+      "description": "⬆ Back to top",
       "items": [
         {
           "node_type": "item",
-          "title": "build-your-own-x",
-          "description": "做项目",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-07-14T19:25:58Z",
-            "owner": "codecrafters-io",
-            "repo": "build-your-own-x",
-            "stars": 540814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "project-based-learning",
-          "description": "做项目",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T06:46:47Z",
-            "owner": "practical-tutorials",
-            "repo": "project-based-learning",
-            "stars": 279762
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AlgoryL/Projects-from-Scratch: Read and do projects.",
+          "title": "OSSU",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2023-03-26T23:57:01Z",
-            "owner": "AlgoryL",
-            "repo": "Projects-from-Scratch",
-            "stars": 1944
+            "id": 19415064,
+            "language": "HTML",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 208161
           }
         },
         {
           "node_type": "item",
-          "title": "cweagans/awesome-diy-software: A curated list of awesome DIY software.",
+          "title": "cs-video-courses",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71583602,
             "language": null,
-            "last_commit": "2019-12-05T18:36:07Z",
-            "owner": "cweagans",
-            "repo": "awesome-diy-software",
-            "stars": 775
+            "last_commit": "2026-07-07T17:42:10Z",
+            "owner": "Developer-Y",
+            "repo": "cs-video-courses",
+            "stars": 83123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source CS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166504843,
+            "language": null,
+            "last_commit": "2025-06-11T17:09:07Z",
+            "owner": "ForrestKnight",
+            "repo": "open-source-cs",
+            "stars": 23706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p1xt-guides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92241502,
+            "language": null,
+            "last_commit": "2026-01-03T19:47:46Z",
+            "owner": "P1xt",
+            "repo": "p1xt-guides",
+            "stars": 7183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rusty-CS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475196921,
+            "language": null,
+            "last_commit": "2024-01-08T13:27:28Z",
+            "owner": "AbdesamedBendjeddou",
+            "repo": "Rusty-CS",
+            "stars": 978
           }
         }
       ],
-      "title": "不错的网站"
+      "title": "备用CS资源大全"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:56:12.833Z",
+    "last_updated": "2026-08-19T12:59:02.761Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
+    "original_repository_id": 475740047,
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
     "enhanced_repository": "enhansome/enhansome-zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "enhanced_repository_description": null,
