@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 541248
+                "stars": 541548
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-17T06:46:47Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 279945
+                "stars": 280102
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-03-26T23:57:01Z",
                 "owner": "AlgoryL",
                 "repo": "Projects-from-Scratch",
-                "stars": 1944
+                "stars": 1945
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2019-12-05T18:36:07Z",
                 "owner": "cweagans",
                 "repo": "awesome-diy-software",
-                "stars": 776
+                "stars": 777
               }
             }
           ],
@@ -88,7 +88,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208175
+            "stars": 208242
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83124
+            "stars": 83133
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-01-03T19:47:46Z",
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7182
+            "stars": 7183
           }
         },
         {
@@ -156,7 +156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:53:05.061Z",
+    "last_updated": "2026-08-20T18:58:54.067Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "original_repository_id": 475740047,
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
