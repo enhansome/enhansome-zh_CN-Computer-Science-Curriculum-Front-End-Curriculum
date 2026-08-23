@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542085
+                "stars": 542312
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-17T06:46:47Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280363
+                "stars": 280492
               }
             },
             {
@@ -88,7 +88,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208327
+            "stars": 208358
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83147
+            "stars": 83158
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-06-11T17:09:07Z",
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23708
+            "stars": 23715
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-01-03T19:47:46Z",
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7184
+            "stars": 7185
           }
         },
         {
@@ -156,7 +156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:48:37.541Z",
+    "last_updated": "2026-08-23T18:47:46.662Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "original_repository_id": 475740047,
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
