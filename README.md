@@ -66,9 +66,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,312 | 🐛 638 | 🌐 Markdown | 📅 2026-07-14 做项目
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,532 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 做项目
 
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 280,492 | 🐛 270 | 🌐 Python | 📅 2026-08-17 做项目
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 280,606 | 🐛 270 | 🌐 Python | 📅 2026-08-24 做项目
 
 * [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,947 | 🐛 5 | 📅 2023-03-26
 
@@ -95,9 +95,9 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 备用CS资源大全
 
-* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,358 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,158 | 🐛 2 | 📅 2026-07-07
-* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,715 | 🐛 41 | 📅 2025-06-11
+* [OSSU](https://github.com/ossu/computer-science) ⭐ 208,379 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,168 | 🐛 2 | 📅 2026-07-07
+* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,738 | 🐛 41 | 📅 2025-06-11
 * [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,185 | 🐛 0 | 📅 2026-01-03
 * [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 978 | 🐛 0 | 📅 2024-01-08
 * [CS1000](https://cs1000.vercel.app/)
@@ -117,12 +117,12 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 > **前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
 
+* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,898 | 🐛 24 | 📅 2023-12-18
 * 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/learn)
 * 参考：[The Odin Project](https://www.theodinproject.com/)
 * 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 * 参考：[Web Skills](https://andreasbm.github.io/web-skills/)
 * 参考: [roadmap.sh](https://roadmap.sh/frontend)
-* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,898 | 🐛 24 | 📅 2023-12-18
 
 | Index | Topic        | Course                                                    | Pricing |
 | ----- | ------------ | --------------------------------------------------------- | ------- |
@@ -185,10 +185,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 英文阅读工具
 
+* [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) ⭐ 13,288 | 🐛 750 | 🌐 TypeScript | 📅 2026-07-26 :+1:
 * [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/) :+1:
 * [有道词典](http://dict.youdao.com/?keyfrom=dict2.index)
 * [DeepL翻译](https://www.deepl.com/translator)
-* [Quicker调用沙拉查词-全局翻译](https://github.com/crimx/ext-saladict/discussions/493) ⭐ 13,287 | 🐛 750 | 🌐 TypeScript | 📅 2026-07-26 :+1:
 * [彩云小译](https://fanyi.caiyunapp.com/) :+1:
 * [Youtube双语字幕](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm) :+1:
 * [Quicker聚合翻译OpenL DeepL](https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977)
@@ -214,6 +214,8 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 > **人生之本，工作之本，夫妻生活之本。没有健康的身体，一切无从谈起。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练`
 
+* [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger) ⭐ 35,100 | 🐛 42 | 📅 2025-05-19
+  <br>
 * [x] [番茄时钟和久坐提醒](https://getquicker.net/Sharedaction?code=b3b72194-9a89-4696-92bd-08d704390d81)
 * [x] 站立式工作台 :+1:
 * [x] 肺
@@ -232,8 +234,6 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
   * [x] 握力器、负重卷绳、液压臂力棒
 * [x] 辅助健身记录手机App
   * [x] 训记App
-* [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger) ⭐ 35,101 | 🐛 42 | 📅 2025-05-19
-  <br>
 
 <br>[⬆ Back to top](#目录)
 
@@ -281,10 +281,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
   * [x] Part 4
   * [x] Part 5
 * [ ] [CS 61B Data Structures](https://sp21.datastructur.es/)
+  * [x] [cs61b-study-guide](https://github.com/SFUMECJF/cs61b-study-guide) ⭐ 180 | 🐛 2 | 🌐 Java | 📅 2022-05-11 他人总结
   * [x] [CS61B学习经验1](https://zhuanlan.zhihu.com/p/431583071)
   * [x] [CS61B学习经验2](https://zhuanlan.zhihu.com/p/434144861)
   * [x] [CS61B学习经验3](https://zhuanlan.zhihu.com/p/446593985)
-  * [x] [cs61b-study-guide](https://github.com/SFUMECJF/cs61b-study-guide) ⭐ 180 | 🐛 2 | 🌐 Java | 📅 2022-05-11 他人总结
 
 ### English
 
@@ -306,4 +306,4 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

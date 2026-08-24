@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542312
+                "stars": 542532
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 88011908,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:46:47Z",
+                "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280492
+                "stars": 280606
               }
             },
             {
@@ -66,7 +66,7 @@
               }
             }
           ],
-          "description": "⬆ Back to top",
+          "description": null,
           "node_type": "group",
           "title": "不错的网站"
         }
@@ -74,7 +74,7 @@
       "title": "计算机编程后端自学"
     },
     {
-      "description": "⬆ Back to top",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -88,7 +88,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208358
+            "stars": 208379
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83158
+            "stars": 83168
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-06-11T17:09:07Z",
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23715
+            "stars": 23738
           }
         },
         {
@@ -153,10 +153,129 @@
         }
       ],
       "title": "备用CS资源大全"
+    },
+    {
+      "description": "前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "参考: spellbook-of-modern-webdev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93956851,
+            "language": null,
+            "last_commit": "2023-12-18T07:53:58Z",
+            "owner": "dexteryy",
+            "repo": "spellbook-of-modern-webdev",
+            "stars": 17898
+          }
+        }
+      ],
+      "title": "前端全栈自学"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quicker调用沙拉查词-全局翻译",
+          "description": "+1:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46539448,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T16:30:15Z",
+            "owner": "crimx",
+            "repo": "ext-saladict",
+            "stars": 13288
+          }
+        }
+      ],
+      "title": "英文阅读工具"
+    },
+    {
+      "description": "人生之本，工作之本，夫妻生活之本。没有健康的身体，一切无从谈起。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "程序员延寿指南 | A programmer's guide to live longer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 482152820,
+            "language": null,
+            "last_commit": "2025-05-19T14:10:41Z",
+            "owner": "geekan",
+            "repo": "HowToLiveLonger",
+            "stars": 35100
+          }
+        }
+      ],
+      "title": "身体健康养护"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "HTML & CSS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "youtube_clone",
+              "description": "Day 1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509138684,
+                "language": "HTML",
+                "last_commit": "2022-07-10T06:10:19Z",
+                "owner": "eryisan",
+                "repo": "youtube_clone",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Step by Step Building 100 Days Project"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "CS 61B Data Structures",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cs61b-study-guide",
+              "description": "他人总结",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374495120,
+                "language": "Java",
+                "last_commit": "2022-05-11T02:22:12Z",
+                "owner": "SFUMECJF",
+                "repo": "cs61b-study-guide",
+                "stars": 180
+              }
+            }
+          ]
+        }
+      ],
+      "title": "To do"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:47:46.662Z",
+    "last_updated": "2026-08-24T14:30:29.380Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "original_repository_id": 475740047,
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
