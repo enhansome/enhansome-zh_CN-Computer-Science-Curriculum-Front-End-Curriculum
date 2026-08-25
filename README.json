@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542598
+                "stars": 542731
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280634
+                "stars": 280704
               }
             },
             {
@@ -88,7 +88,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208388
+            "stars": 208401
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83171
+            "stars": 83174
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-06-11T17:09:07Z",
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23742
+            "stars": 23741
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2025-05-19T14:10:41Z",
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35101
+            "stars": 35102
           }
         }
       ],
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:58:37.847Z",
+    "last_updated": "2026-08-25T06:26:11.528Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "original_repository_id": 475740047,
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
