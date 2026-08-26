@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542905
+                "stars": 543164
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280812
+                "stars": 280968
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-03-26T23:57:01Z",
                 "owner": "AlgoryL",
                 "repo": "Projects-from-Scratch",
-                "stars": 1948
+                "stars": 1950
               }
             },
             {
@@ -88,7 +88,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208415
+            "stars": 208433
           }
         },
         {
@@ -100,10 +100,10 @@
             "archived": false,
             "id": 71583602,
             "language": null,
-            "last_commit": "2026-08-25T15:43:31Z",
+            "last_commit": "2026-08-26T13:55:35Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83174
+            "stars": 83182
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2025-06-11T17:09:07Z",
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23742
+            "stars": 23744
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-01-03T19:47:46Z",
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7186
+            "stars": 7185
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2026-07-26T16:30:15Z",
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13288
+            "stars": 13290
           }
         }
       ],
@@ -211,7 +211,7 @@
             "last_commit": "2025-05-19T14:10:41Z",
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35102
+            "stars": 35104
           }
         }
       ],
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:56:30.487Z",
+    "last_updated": "2026-08-26T20:03:29.935Z",
     "original_repository": "eryisan/zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
     "original_repository_id": 475740047,
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
