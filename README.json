@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Master programming by recreating your favorite technologies from scratch.",
+                "homepage": "https://codecrafters.io",
                 "id": 132750724,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
+                "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543707
+                "stars": 543742,
+                "topics": [
+                  "awesome-list",
+                  "free",
+                  "programming",
+                  "tutorial-code",
+                  "tutorial-exercises",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
             },
@@ -28,12 +40,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of project-based tutorials",
+                "homepage": null,
                 "id": 88011908,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:38:50Z",
+                "open_issues": 271,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 281198
+                "stars": 281202,
+                "topics": [
+                  "beginner-project",
+                  "cpp",
+                  "golang",
+                  "javascript",
+                  "project",
+                  "python",
+                  "tutorial",
+                  "webdevelopment"
+                ]
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
             },
@@ -44,12 +70,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and do projects.",
+                "homepage": null,
                 "id": 82414038,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-03-26T23:57:01Z",
+                "open_issues": 5,
                 "owner": "AlgoryL",
                 "repo": "Projects-from-Scratch",
-                "stars": 1951
+                "stars": 1951,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
             },
@@ -60,12 +91,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome DIY software.",
+                "homepage": "https://www.awesomediysoftware.com/",
                 "id": 125466066,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-12-05T18:36:07Z",
+                "open_issues": 3,
                 "owner": "cweagans",
                 "repo": "awesome-diy-software",
-                "stars": 777
+                "stars": 777,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
             }
@@ -87,12 +123,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
             "id": 19415064,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208486
+            "stars": 208491,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "courses",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         },
@@ -103,12 +149,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Computer Science courses with video lectures.",
+            "homepage": null,
             "id": 71583602,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-26T13:55:35Z",
+            "open_issues": 2,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83196
+            "stars": 83197,
+            "topics": [
+              "algorithms",
+              "bioinformatics",
+              "computational-biology",
+              "computational-physics",
+              "computer-architecture",
+              "computer-science",
+              "computer-vision",
+              "database-systems",
+              "databases",
+              "deep-learning",
+              "embedded-systems",
+              "machine-learning",
+              "quantum-computing",
+              "reinforcement-learning",
+              "robotics",
+              "security",
+              "systems",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         },
@@ -119,12 +189,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video discussing this curriculum:",
+            "homepage": "https://youtu.be/NyOvFSP_IpQ",
             "id": 166504843,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-11T17:09:07Z",
+            "open_issues": 41,
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23746
+            "stars": 23746,
+            "topics": [
+              "computer-science"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         },
@@ -135,12 +212,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming curricula",
+            "homepage": null,
             "id": 92241502,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-03T19:47:46Z",
+            "open_issues": 0,
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7184
+            "stars": 7184,
+            "topics": [
+              "computer-science",
+              "game-development",
+              "programming",
+              "software-engineering",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         },
@@ -151,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Computer Science Curriculum with Rust flavor!",
+            "homepage": null,
             "id": 475196921,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-01-08T13:27:28Z",
+            "open_issues": 0,
             "owner": "AbdesamedBendjeddou",
             "repo": "Rusty-CS",
-            "stars": 978
+            "stars": 978,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         }
@@ -173,12 +266,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
+            "homepage": null,
             "id": 93956851,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-18T07:53:58Z",
+            "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17899
+            "stars": 17899,
+            "topics": [
+              "awesome",
+              "css3",
+              "html5",
+              "isomorphic-javascript",
+              "javascript",
+              "learning",
+              "libraries",
+              "nodejs",
+              "universal-javascript",
+              "webapp",
+              "webplatform"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         }
@@ -195,12 +305,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.",
+            "homepage": "https://saladict.crimx.com/",
             "id": 46539448,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T16:30:15Z",
+            "open_issues": 750,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13297
+            "stars": 13298,
+            "topics": [
+              "chrome",
+              "chrome-extension",
+              "dictionaries",
+              "extension",
+              "firefox",
+              "firefox-addon",
+              "firefox-extension",
+              "react",
+              "rxjs",
+              "saladict",
+              "typescript",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         }
@@ -217,12 +345,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "程序员延寿指南 | A programmer's guide to live longer",
+            "homepage": null,
             "id": 482152820,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2025-05-19T14:10:41Z",
+            "open_issues": 42,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35102
+            "stars": 35102,
+            "topics": [
+              "livelonger",
+              "programmer"
+            ]
           },
           "first_seen": "2026-08-29T01:45:00.177Z"
         }
@@ -244,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 509138684,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-07-10T06:10:19Z",
+                "open_issues": 0,
                 "owner": "eryisan",
                 "repo": "youtube_clone",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
             }
@@ -273,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 374495120,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-05-11T02:22:12Z",
+                "open_issues": 2,
                 "owner": "SFUMECJF",
                 "repo": "cs61b-study-guide",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
             }
@@ -289,15 +435,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:45:00.177Z",
+    "last_updated": "2026-08-29T04:50:13.392Z",
     "original_repository_info": {
       "archived": false,
+      "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
+      "homepage": null,
       "id": 475740047,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-02-01T18:07:01Z",
+      "open_issues": 0,
       "owner": "eryisan",
       "repo": "zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
-      "stars": 221
+      "stars": 221,
+      "topics": [
+        "awesome-list",
+        "chinese",
+        "computer-science",
+        "course",
+        "css",
+        "curriculum",
+        "free",
+        "front-end",
+        "frontend",
+        "full-stack",
+        "html",
+        "java",
+        "javascript",
+        "programming",
+        "python",
+        "react"
+      ]
     },
     "original_repository_sha": "337a4e5d92ebf46236afa409e4945753cd2e2081",
     "enhanced_repository": "enhansome/enhansome-zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
