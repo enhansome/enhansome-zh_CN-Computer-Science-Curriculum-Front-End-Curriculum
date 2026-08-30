@@ -21,7 +21,7 @@
                 "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543899,
+                "stars": 544075,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -49,7 +49,7 @@
                 "open_issues": 273,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 281274,
+                "stars": 281373,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -132,7 +132,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208534,
+            "stars": 208555,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -154,11 +154,11 @@
             "id": 71583602,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-29T18:55:06Z",
+            "last_commit": "2026-08-30T19:20:44Z",
             "open_issues": 2,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83220,
+            "stars": 83276,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17900,
+            "stars": 17901,
             "topics": [
               "awesome",
               "css3",
@@ -314,7 +314,7 @@
             "open_issues": 750,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13299,
+            "stars": 13300,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:54:58.217Z",
+    "last_updated": "2026-08-30T21:04:52.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
