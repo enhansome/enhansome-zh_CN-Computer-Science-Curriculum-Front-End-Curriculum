@@ -21,7 +21,7 @@
                 "open_issues": 640,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 545603,
+                "stars": 545832,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -45,11 +45,11 @@
                 "id": 88011908,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T07:08:03Z",
-                "open_issues": 278,
+                "last_commit": "2026-09-07T07:09:03Z",
+                "open_issues": 274,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 282349,
+                "stars": 282484,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -132,7 +132,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208773,
+            "stars": 208808,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -158,7 +158,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83435,
+            "stars": 83440,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -198,7 +198,7 @@
             "open_issues": 41,
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23748,
+            "stars": 23751,
             "topics": [
               "computer-science"
             ]
@@ -221,7 +221,7 @@
             "open_issues": 0,
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7184,
+            "stars": 7185,
             "topics": [
               "computer-science",
               "game-development",
@@ -354,7 +354,7 @@
             "open_issues": 42,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35098,
+            "stars": 35099,
             "topics": [
               "livelonger",
               "programmer"
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:23:30.479Z",
+    "last_updated": "2026-09-07T21:30:24.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
@@ -447,7 +447,7 @@
       "open_issues": 0,
       "owner": "eryisan",
       "repo": "zh_CN-Computer-Science-Curriculum-Front-End-Curriculum",
-      "stars": 221,
+      "stars": 220,
       "topics": [
         "awesome-list",
         "chinese",
