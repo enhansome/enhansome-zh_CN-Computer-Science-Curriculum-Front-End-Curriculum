@@ -21,7 +21,7 @@
                 "open_issues": 666,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 551209,
+                "stars": 551251,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -49,7 +49,7 @@
                 "open_issues": 260,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 285643,
+                "stars": 285666,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -66,7 +66,7 @@
             {
               "node_type": "item",
               "title": "AlgoryL/Projects-from-Scratch: Read and do projects.",
-              "description": null,
+              "description": "AlgoryL/Projects-from-Scratch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,7 +79,7 @@
                 "open_issues": 5,
                 "owner": "AlgoryL",
                 "repo": "Projects-from-Scratch",
-                "stars": 1951,
+                "stars": 1952,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
@@ -87,7 +87,7 @@
             {
               "node_type": "item",
               "title": "cweagans/awesome-diy-software: A curated list of awesome DIY software.",
-              "description": null,
+              "description": "cweagans/awesome-diy-software",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,7 +119,7 @@
         {
           "node_type": "item",
           "title": "OSSU",
-          "description": null,
+          "description": "ossu/computer-science",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209693,
+            "stars": 209702,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -145,7 +145,7 @@
         {
           "node_type": "item",
           "title": "cs-video-courses",
-          "description": null,
+          "description": "Developer-Y/cs-video-courses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,7 +158,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83596,
+            "stars": 83600,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -185,7 +185,7 @@
         {
           "node_type": "item",
           "title": "Open Source CS",
-          "description": null,
+          "description": "ForrestKnight/open-source-cs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -208,7 +208,7 @@
         {
           "node_type": "item",
           "title": "p1xt-guides",
-          "description": null,
+          "description": "P1xt/p1xt-guides",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
             "open_issues": 0,
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7182,
+            "stars": 7181,
             "topics": [
               "computer-science",
               "game-development",
@@ -235,7 +235,7 @@
         {
           "node_type": "item",
           "title": "Rusty-CS",
-          "description": null,
+          "description": "AbdesamedBendjeddou/Rusty-CS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -262,7 +262,7 @@
         {
           "node_type": "item",
           "title": "参考: spellbook-of-modern-webdev",
-          "description": null,
+          "description": "dexteryy/spellbook-of-modern-webdev",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17917,
+            "stars": 17919,
             "topics": [
               "awesome",
               "css3",
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "Quicker调用沙拉查词-全局翻译",
-          "description": "+1:",
+          "description": "crimx/ext-saladict",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -314,7 +314,7 @@
             "open_issues": 750,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13352,
+            "stars": 13353,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -341,7 +341,7 @@
         {
           "node_type": "item",
           "title": "程序员延寿指南 | A programmer's guide to live longer",
-          "description": null,
+          "description": "geekan/HowToLiveLonger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
             "open_issues": 44,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35540,
+            "stars": 35546,
             "topics": [
               "livelonger",
               "programmer"
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:13:11.596Z",
+    "last_updated": "2026-10-03T05:13:41.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
