@@ -66,13 +66,13 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,543 | 🐛 667 | 🌐 Markdown | 📅 2026-07-14 做项目
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,710 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14 做项目
 
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 285,823 | 🐛 259 | 🌐 Python | 📅 2026-09-28 做项目
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 285,945 | 🐛 259 | 🌐 Python | 📅 2026-10-05 做项目
 
-* [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,951 | 🐛 5 | 📅 2023-03-26
+* [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,950 | 🐛 5 | 📅 2023-03-26
 
-* [cweagans/awesome-diy-software: A curated list of awesome DIY software.](https://github.com/cweagans/awesome-diy-software) ⭐ 778 | 🐛 3 | 📅 2019-12-05
+* [cweagans/awesome-diy-software: A curated list of awesome DIY software.](https://github.com/cweagans/awesome-diy-software) ⭐ 779 | 🐛 3 | 📅 2019-12-05
 
 * [用十年来学编程](https://coolshell.cn/articles/2250.html) 学习心态
 
@@ -95,10 +95,10 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 备用CS资源大全
 
-* [OSSU](https://github.com/ossu/computer-science) ⭐ 209,803 | 🐛 29 | 🌐 HTML | 📅 2026-07-14
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,611 | 🐛 4 | 📅 2026-09-27
-* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,767 | 🐛 41 | 📅 2025-06-11
-* [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,181 | 🐛 0 | 📅 2026-01-03
+* [OSSU](https://github.com/ossu/computer-science) ⭐ 209,882 | 🐛 29 | 🌐 HTML | 📅 2026-07-14
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,623 | 🐛 5 | 📅 2026-09-27
+* [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,766 | 🐛 41 | 📅 2025-06-11
+* [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,180 | 🐛 0 | 📅 2026-01-03
 * [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 977 | 🐛 0 | 📅 2024-01-08
 * [CS1000](https://cs1000.vercel.app/)
 * [No Debt CS](https://no-debt-cs.netlify.app/)
@@ -117,7 +117,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 > **前端工程师-全栈工程师课程自学资源、教程、路线 - Front-End Curriculum**
 
-* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,921 | 🐛 24 | 📅 2023-12-18
+* 参考: [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,920 | 🐛 24 | 📅 2023-12-18
 * 参考：[MDN](https://developer.mozilla.org/zh-CN/docs/learn)
 * 参考：[The Odin Project](https://www.theodinproject.com/)
 * 参考：[learning-roadmap](https://frontendmasters.com/guides/learning-roadmap/)
@@ -214,7 +214,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 > **人生之本，工作之本，夫妻生活之本。没有健康的身体，一切无从谈起。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练`
 
-* [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger) ⭐ 35,613 | 🐛 44 | 📅 2025-05-19
+* [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger) ⭐ 35,672 | 🐛 44 | 📅 2025-05-19
   <br>
 * [x] [番茄时钟和久坐提醒](https://getquicker.net/Sharedaction?code=b3b72194-9a89-4696-92bd-08d704390d81)
 * [x] 站立式工作台 :+1:
@@ -306,4 +306,4 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
