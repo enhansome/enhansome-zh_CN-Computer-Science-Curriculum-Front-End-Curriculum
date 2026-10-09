@@ -18,10 +18,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
-                "open_issues": 673,
+                "open_issues": 674,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 552011,
+                "stars": 552200,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T07:20:21Z",
-                "open_issues": 259,
+                "open_issues": 256,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 286098,
+                "stars": 286215,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -132,7 +132,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209802,
+            "stars": 209825,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -155,10 +155,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-06T04:49:17Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83643,
+            "stars": 83642,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -198,7 +198,7 @@
             "open_issues": 41,
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23764,
+            "stars": 23765,
             "topics": [
               "computer-science"
             ]
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17921,
+            "stars": 17920,
             "topics": [
               "awesome",
               "css3",
@@ -311,10 +311,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-25T09:45:22Z",
-            "open_issues": 750,
+            "open_issues": 751,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13360,
+            "stars": 13363,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -354,7 +354,7 @@
             "open_issues": 44,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35722,
+            "stars": 35725,
             "topics": [
               "livelonger",
               "programmer"
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:20:11.911Z",
+    "last_updated": "2026-10-09T22:37:24.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
