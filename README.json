@@ -18,10 +18,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
-                "open_issues": 676,
+                "open_issues": 677,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 553441,
+                "stars": 553777,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -49,7 +49,7 @@
                 "open_issues": 235,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 286802,
+                "stars": 286911,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -97,7 +97,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2019-12-05T18:36:07Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "cweagans",
                 "repo": "awesome-diy-software",
                 "stars": 780,
@@ -132,7 +132,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210027,
+            "stars": 210047,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -158,7 +158,7 @@
             "open_issues": 5,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83683,
+            "stars": 83684,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -221,7 +221,7 @@
             "open_issues": 0,
             "owner": "P1xt",
             "repo": "p1xt-guides",
-            "stars": 7181,
+            "stars": 7182,
             "topics": [
               "computer-science",
               "game-development",
@@ -314,7 +314,7 @@
             "open_issues": 752,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13383,
+            "stars": 13380,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -354,7 +354,7 @@
             "open_issues": 44,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35779,
+            "stars": 35788,
             "topics": [
               "livelonger",
               "programmer"
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:21:59.934Z",
+    "last_updated": "2026-10-16T21:06:50.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
