@@ -18,10 +18,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
-                "open_issues": 679,
+                "open_issues": 680,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 555169,
+                "stars": 555470,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:12:30Z",
-                "open_issues": 239,
+                "open_issues": 238,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 287516,
+                "stars": 287643,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -100,7 +100,7 @@
                 "open_issues": 3,
                 "owner": "cweagans",
                 "repo": "awesome-diy-software",
-                "stars": 779,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
@@ -132,7 +132,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210202,
+            "stars": 210235,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -158,7 +158,7 @@
             "open_issues": 5,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83721,
+            "stars": 83741,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -198,7 +198,7 @@
             "open_issues": 41,
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23775,
+            "stars": 23778,
             "topics": [
               "computer-science"
             ]
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17930,
+            "stars": 17931,
             "topics": [
               "awesome",
               "css3",
@@ -311,10 +311,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T14:37:21Z",
-            "open_issues": 751,
+            "open_issues": 752,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13396,
+            "stars": 13394,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -345,18 +345,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "程序员延寿指南 | A programmer's guide to live longer",
-            "homepage": null,
+            "description": "A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.",
+            "homepage": "https://geekan.github.io/HowToLiveLonger/",
             "id": 482152820,
-            "language": null,
+            "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2025-05-19T14:10:41Z",
+            "last_commit": "2026-10-22T05:56:54Z",
             "open_issues": 44,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35817,
+            "stars": 35821,
             "topics": [
+              "github-pages",
+              "health",
               "livelonger",
+              "longevity",
+              "multilingual",
               "programmer"
             ]
           },
@@ -435,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:41:48.843Z",
+    "last_updated": "2026-10-22T21:34:33.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
