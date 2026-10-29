@@ -21,7 +21,7 @@
                 "open_issues": 684,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 556927,
+                "stars": 557357,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-26T07:13:08Z",
-                "open_issues": 236,
+                "open_issues": 237,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 288316,
+                "stars": 288403,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -79,7 +79,7 @@
                 "open_issues": 5,
                 "owner": "AlgoryL",
                 "repo": "Projects-from-Scratch",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
@@ -132,7 +132,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 210467,
+            "stars": 210502,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -158,7 +158,7 @@
             "open_issues": 6,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 84162,
+            "stars": 84255,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17941,
+            "stars": 17943,
             "topics": [
               "awesome",
               "css3",
@@ -354,7 +354,7 @@
             "open_issues": 45,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 35845,
+            "stars": 35847,
             "topics": [
               "github-pages",
               "health",
@@ -439,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:34:04.436Z",
+    "last_updated": "2026-10-29T22:44:13.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
