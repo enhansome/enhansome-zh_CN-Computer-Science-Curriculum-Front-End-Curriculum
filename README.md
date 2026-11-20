@@ -66,11 +66,11 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 ### 不错的网站
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 563,958 | 🐛 633 | 🌐 Markdown | 📅 2026-11-19 做项目
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 564,152 | 🐛 637 | 🌐 Markdown | 📅 2026-11-19 做项目
 
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 290,054 | 🐛 213 | 🌐 Python | 📅 2026-11-16 做项目
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 290,102 | 🐛 214 | 🌐 Python | 📅 2026-11-16 做项目
 
-* [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,962 | 🐛 5 | 📅 2023-03-26
+* [AlgoryL/Projects-from-Scratch: Read and do projects.](https://github.com/AlgoryL/Projects-from-Scratch) ⭐ 1,961 | 🐛 5 | 📅 2023-03-26
 
 * [cweagans/awesome-diy-software: A curated list of awesome DIY software.](https://github.com/cweagans/awesome-diy-software) ⭐ 782 | 🐛 3 | 📅 2019-12-05
 
@@ -95,11 +95,11 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 # 备用CS资源大全
 
-* [OSSU](https://github.com/ossu/computer-science) ⭐ 211,342 | 🐛 31 | 🌐 HTML | 📅 2026-11-09
-* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,892 | 🐛 5 | 📅 2026-11-15
+* [OSSU](https://github.com/ossu/computer-science) ⭐ 211,367 | 🐛 31 | 🌐 HTML | 📅 2026-11-09
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,901 | 🐛 4 | 📅 2026-11-20
 * [Open Source CS](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,785 | 🐛 41 | 📅 2025-06-11
-* [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,172 | 🐛 0 | 📅 2026-01-03
-* [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 978 | 🐛 0 | 📅 2024-01-08
+* [p1xt-guides](https://github.com/P1xt/p1xt-guides) ⭐ 7,170 | 🐛 0 | 📅 2026-01-03
+* [Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) ⭐ 977 | 🐛 0 | 📅 2024-01-08
 * [CS1000](https://cs1000.vercel.app/)
 * [No Debt CS](https://no-debt-cs.netlify.app/)
 * [Teach Yourself CS](https://teachyourselfcs.com/)
@@ -214,7 +214,7 @@ CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈�
 
 > **人生之本，工作之本，夫妻生活之本。没有健康的身体，一切无从谈起。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练`
 
-* [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger) ⭐ 36,157 | 🐛 45 | 🌐 HTML | 📅 2026-10-22
+* [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger) ⭐ 36,170 | 🐛 45 | 🌐 HTML | 📅 2026-10-22
   <br>
 * [x] [番茄时钟和久坐提醒](https://getquicker.net/Sharedaction?code=b3b72194-9a89-4696-92bd-08d704390d81)
 * [x] 站立式工作台 :+1:
