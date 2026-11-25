@@ -18,10 +18,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-11-19T05:32:02Z",
-                "open_issues": 641,
+                "open_issues": 643,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 565045,
+                "stars": 565339,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -49,7 +49,7 @@
                 "open_issues": 215,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 290350,
+                "stars": 290421,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -79,7 +79,7 @@
                 "open_issues": 5,
                 "owner": "AlgoryL",
                 "repo": "Projects-from-Scratch",
-                "stars": 1964,
+                "stars": 1965,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:45:00.177Z"
@@ -129,10 +129,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-11-09T06:27:27Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211473,
+            "stars": 211512,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -154,11 +154,11 @@
             "id": 71583602,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-20T19:09:25Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-24T17:13:22Z",
+            "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 84925,
+            "stars": 84950,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -198,7 +198,7 @@
             "open_issues": 41,
             "owner": "ForrestKnight",
             "repo": "open-source-cs",
-            "stars": 23791,
+            "stars": 23792,
             "topics": [
               "computer-science"
             ]
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17969,
+            "stars": 17968,
             "topics": [
               "awesome",
               "css3",
@@ -354,7 +354,7 @@
             "open_issues": 45,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 36194,
+            "stars": 36260,
             "topics": [
               "github-pages",
               "health",
@@ -439,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:57:18.110Z",
+    "last_updated": "2026-11-25T02:26:14.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
