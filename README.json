@@ -21,7 +21,7 @@
                 "open_issues": 647,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 565779,
+                "stars": 565996,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -49,7 +49,7 @@
                 "open_issues": 215,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 290552,
+                "stars": 290612,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -132,7 +132,7 @@
             "open_issues": 33,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211604,
+            "stars": 211621,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -155,10 +155,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-24T17:13:22Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 84996,
+            "stars": 85006,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -275,7 +275,7 @@
             "open_issues": 24,
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17969,
+            "stars": 17970,
             "topics": [
               "awesome",
               "css3",
@@ -314,7 +314,7 @@
             "open_issues": 753,
             "owner": "crimx",
             "repo": "ext-saladict",
-            "stars": 13451,
+            "stars": 13454,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -354,7 +354,7 @@
             "open_issues": 45,
             "owner": "geekan",
             "repo": "HowToLiveLonger",
-            "stars": 36310,
+            "stars": 36324,
             "topics": [
               "github-pages",
               "health",
@@ -439,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:43:07.584Z",
+    "last_updated": "2026-11-28T01:26:51.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "CS计算机课程自学资源、教程、路线;Front-End前端工程师-全栈工程师课程自学资源、教程、路线;A Computer Science Curriculum;Front-End Curriculum;免费与付费的计算机科学编程类中英文教程资源",
